@@ -1,0 +1,20 @@
+<p class="cardHead">Gaming accessories</p>
+                <div class="cardUperPart">
+                    <div class="cardInner">
+                        <img src="image/cardimg1.jpg" alt="" class="cardimg">
+                        <p class="lowerTextImg">Headset</p>
+                    </div>
+                    <div class="cardInner">
+                        <img src="image/cardimg2.jpg" alt="" class="cardimg">
+                        <p class="lowerTextImg">Headset</p>
+                    </div>
+                    <div class="cardInner">
+                        <img src="image/cardimg3.jpg" alt="" class="cardimg">
+                        <p class="lowerTextImg">Headset</p>
+                    </div>
+                    <div class="cardInner">
+                        <img src="image/cardimg4.jpg" alt="" class="cardimg">
+                        <p class="lowerTextImg">Headset</p>
+                    </div>
+                </div>
+                <a class="cardlink" href="#">See more</a>
